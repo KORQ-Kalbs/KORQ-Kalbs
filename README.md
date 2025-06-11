@@ -9,7 +9,7 @@
 
 ---
 
-<!-- About Me -->
+```haskel
 pronouns  • he/him
 address   • west java, indonesia
 school    • smkn 1 ciomas
@@ -20,6 +20,7 @@ skills    • typescript, javascript
             bootstrap, mysql
 learning  • python, next.js, react.js,
             laravel, unity, nodejs,
+```
 
 <div align="center">
   
