@@ -1,6 +1,6 @@
 <!-- Banner atau Greeting -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h1 align="center">Hi there 👋, I'm Kafkha Yasin Albian</h1>
+<h3 align="center">A passionate developer from Indonesia</h3>
 
 <!-- GitHub Profile Views -->
 <p align="center">
@@ -10,15 +10,16 @@
 ---
 
 <!-- About Me -->
-- 🔭 I’m currently working on **[Your Project Name or Topic]**
-- 🌱 I’m currently learning **[Tech you're learning now]**
-- 👯 I’m looking to collaborate on **[Your area of interest]**
-- 🤝 I’m looking for help with **[Topic you want help in]**
-- 💬 Ask me about **[Technologies you know well]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[A fun or quirky detail about you]**
+pronouns  • he/him
+address   • west java, indonesia
+school    • smkn 1 ciomas
+hobbies   • gaming, code, basketball, 
+            music.
 
----
+skills    • typescript, javascript
+            bootstrap, mysql
+learning  • python, next.js, react.js,
+            laravel, unity, nodejs,
 
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
