@@ -31,6 +31,3 @@ learning  • python, next.js, react.js,
 </div>
 
 
-<img align="left" alt="Laravel" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/laravel.png" />
-<img align="left" alt="Next Js" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/next-js.png" />
-<img align="left" alt="Tailwind" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
