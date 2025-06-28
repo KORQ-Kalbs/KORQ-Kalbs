@@ -29,3 +29,8 @@ learning  • python, next.js, react.js,
   [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Difficult-Cellist833/)
 
 </div>
+
+
+<img align="left" alt="Laravel" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/laravel.png" />
+<img align="left" alt="Next Js" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/next-js.png" />
+<img align="left" alt="Tailwind" width="150" src="https://raw.githubusercontent.com/rakha-elctrnx/assets/main/tailwind.png" />
