@@ -1,6 +1,6 @@
 <!-- Banner atau Greeting -->
 <h1 align="center">Hi there 👋, I'm Kafkha Yasin Albian</h1>
-<h3 align="center">A passionate game developer from Indonesia</h3>
+<h3 align="center">A passionate Game Developer from Indonesia</h3>
 
 <!-- GitHub Profile Views -->
 <p align="center">
@@ -17,7 +17,7 @@ hobbies   • gaming, code, basketball,
             music.
 
 skills    • typescript, javascript
-            bootstrap, mysql
+            bootstrap, mysql, C# Unity
 learning  • python, next.js, react.js,
             laravel, unity, nodejs,
 ```
