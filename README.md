@@ -10,16 +10,17 @@
 ---
 
 ```haskel
-pronouns  • he/him
-address   • west java, indonesia
-school    • smkn 1 ciomas
-hobbies   • gaming, code, basketball, 
+pronouns  • He/Him
+address   • West Java, Indonesia
+school    • SMKN 1 Ciomas
+hobbies   • Gaming, code, basketball, 
             music.
 
 skills    • typescript, javascript
-            bootstrap, mysql, C# Unity
-learning  • python, next.js, react.js,
-            laravel, unity, nodejs,
+            bootstrap, mysql, C# Unity,
+            tailwind css, laravel
+learning  • python, next.js, unity,
+            nodejs, blender, GIMP
 ```
 
 <div align="center">
