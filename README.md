@@ -20,7 +20,7 @@ skills    • typescript, javascript
             bootstrap, mysql, C# Unity,
             tailwind css, laravel
 learning  • python, next.js, unity,
-            nodejs, blender, GIMP
+            nodejs, blender, gimp
 ```
 
 <div align="center">
