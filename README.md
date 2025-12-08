@@ -2,11 +2,6 @@
 <h1 align="center">Hi there 👋, I'm Kafkha Yasin Albian</h1>
 <h3 align="center">A passionate Game Developer from Indonesia</h3>
 
-<!-- GitHub Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
-
 ---
 
 ```haskel
