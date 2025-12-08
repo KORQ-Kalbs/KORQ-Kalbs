@@ -11,11 +11,12 @@ school    • SMKN 1 Ciomas
 hobbies   • Gaming, code, basketball, 
             music.
 
-skills    • typescript, javascript
-            bootstrap, mysql, C# Unity,
+skills    • javascript, bootstrap,
+            mysql, C# Unity,
             tailwind css, laravel
 learning  • python, next.js, unity,
-            nodejs, blender, gimp
+            nodejs, blender, gimp,
+            typescript
 ```
 
 <div align="center">
