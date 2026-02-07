@@ -1,6 +1,6 @@
 <!-- Banner atau Greeting -->
 <h1 align="center">Hi there 👋, I'm Kafkha Yasin Albian</h1>
-<h3 align="center">A passionate Game Developer from Indonesia</h3>
+<h3 align="center">A passionate Game/Web Developer from Indonesia</h3>
 
 ---
 
