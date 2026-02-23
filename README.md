@@ -12,8 +12,8 @@ hobbies   • Gaming, code, basketball,
             music, read.
 
 skills    • laravel, mysql, javascript,
-            php
-learning  • unity, python, react
+            php.
+learning  • unity, python, react.
 ```
 
 <div align="center">
