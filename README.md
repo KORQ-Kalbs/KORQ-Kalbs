@@ -13,7 +13,7 @@ hobbies   • Gaming, code, basketball,
 
 skills    • laravel, mysql, javascript,
             php.
-learning  • unity, python, react.
+learning  • unity, python, react, typescript.
 ```
 
 <div align="center">
