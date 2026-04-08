@@ -13,7 +13,8 @@ hobbies   • Gaming, code, basketball,
 
 skills    • laravel, mysql, javascript,
             php.
-learning  • unity, python, react, typescript, pgsql.
+learning  • unity, python, react, typescript, pgsql,
+            gsap.
 ```
 
 <div align="center">
