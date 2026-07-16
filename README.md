@@ -14,7 +14,8 @@ hobbies   • Gaming, code, basketball,
 skills    • laravel, mysql, javascript,
             php.
 learning  • unity, python, react, typescript, pgsql,
-            gsap, dart, flutter, android studio.
+            gsap, dart, flutter, android studio,
+            cisco packet tracer, code igniter 4.
 ```
 
 <div align="center">
