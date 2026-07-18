@@ -16,7 +16,7 @@ skills    • laravel, mysql, javascript,
 learning  • unity, python, react, typescript, pgsql,
             gsap, dart, flutter, android studio,
             cisco packet tracer, code igniter 4,
-            wireshark, .
+            wireshark.
 ```
 
 <div align="center">
