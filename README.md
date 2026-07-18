@@ -12,7 +12,7 @@ hobbies   • Gaming, code, basketball,
             music, read, jogging.
 
 skills    • laravel, mysql, javascript,
-            php, canva.
+            php, canva, figma.
 learning  • unity, python, react, typescript, pgsql,
             gsap, dart, flutter, android studio,
             cisco packet tracer, code igniter 4,
