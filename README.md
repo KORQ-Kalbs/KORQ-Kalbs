@@ -9,10 +9,10 @@ pronouns  • He/Him
 address   • West Java, Indonesia
 school    • SMKN 1 Ciomas
 hobbies   • Gaming, code, basketball, 
-            music, read.
+            music, read, jogging.
 
 skills    • laravel, mysql, javascript,
-            php.
+            php, canva.
 learning  • unity, python, react, typescript, pgsql,
             gsap, dart, flutter, android studio,
             cisco packet tracer, code igniter 4,
