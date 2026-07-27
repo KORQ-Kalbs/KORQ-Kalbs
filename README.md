@@ -13,10 +13,10 @@ hobbies   • Gaming, code, basketball,
 
 skills    • laravel, mysql, javascript,
             php, canva, figma.
-learning  • unity, python, react, typescript, pgsql,
-            gsap, dart, flutter, android studio,
+learning  • unity, c#, python, react, typescript,
+            pgsql, gsap, dart, flutter, wireshark,
             cisco packet tracer, code igniter 4,
-            wireshark, docker.
+            android studio, docker.
 ```
 
 <div align="center">
