@@ -1,4 +1,3 @@
-<!-- Banner atau Greeting -->
 <h1 align="center">Hi there 👋, I'm Kafkha Yasin Albian</h1>
 <h3 align="center">A passionate Game/Web Developer from Indonesia</h3>
 
@@ -18,6 +17,8 @@ learning  • unity, c#, python, react, typescript,
             cisco packet tracer, android studio,
             docker.
 ```
+
+<h2>Currently Intern At The 1O1 Hotel BSK</h1>
 
 <div align="center">
   
