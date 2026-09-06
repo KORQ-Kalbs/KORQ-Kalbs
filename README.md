@@ -18,7 +18,7 @@ learning  • unity, c#, python, react, typescript,
             docker.
 ```
 
-<h2>Currently Intern At The 1O1 Hotel BSK</h1>
+<h2 align="center">Currently Intern At The 1O1 Hotel BSK</h1>
 
 <div align="center">
   
