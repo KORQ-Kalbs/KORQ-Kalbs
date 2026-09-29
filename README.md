@@ -22,6 +22,7 @@ learning  • unity, c#, python, react, typescript,
 <p align="center">
 <img src="https://readmeme.eu.cc/api/countdown.svg?theme=terminal&eventName=END%OF%INTERN&targetDate=2027-01-01">
 <img src="https://readmeme.eu.cc/api/countdown.svg?theme=terminal&eventName=END%OF%INTERN&targetDate=2027-01-01"/>
+<img src="https://awesometime.vercel.app/api?type=countdown&date=2027-01-01T00:00:00&tz=Asia%2FJakarta&label=NEW%20YEAR%202027"/>
 </p>
 
 
