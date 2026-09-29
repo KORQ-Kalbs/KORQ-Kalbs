@@ -19,6 +19,13 @@ learning  • unity, c#, python, react, typescript,
 ```
 
 <h2 align="center">Currently Intern At The 1O1 Hotel BSK</h1>
+<p align="center">
+  <img
+    src="https://awesometime.vercel.app/api?type=countdown&date=2027-01-01T00:00:00&tz=Asia/Jakarta&label=NEW%20YEAR%202027"
+    alt="Countdown"
+  />
+</p>
+
 
 <div align="center">
   
