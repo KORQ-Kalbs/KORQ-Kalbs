@@ -21,8 +21,6 @@ learning  • unity, c#, python, react, typescript,
 <h2 align="center">Currently Intern At The 1O1 Hotel BSK</h1>
 <p align="center">
 <img src="https://readmeme.eu.cc/api/countdown.svg?theme=terminal&eventName=END%OF%INTERN&targetDate=2027-01-01">
-<img src="https://readmeme.eu.cc/api/countdown.svg?theme=terminal&eventName=END%OF%INTERN&targetDate=2027-01-01"/>
-<img src="https://awesometime.vercel.app/api?type=countdown&date=2025-01-01T00:00:00&tz=Asia%2FJakarta&label=END%OF%INTERN"/>
 </p>
 
 
